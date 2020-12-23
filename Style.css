@@ -1,0 +1,171 @@
+Body{
+    margin: 0;
+    padding: 0; 
+    background-color: #EA4335;
+}
+#one{
+    width: 90%;
+    height: 15vh;
+    background-color: white;
+    margin-top: 8vh;
+    margin-left: 5%;
+    border-radius: 15px;
+    border: solid black 1px;
+}
+
+#two{  
+    width: 70%;
+    height: 11vh;
+    background-color: rgb(245, 205, 205);
+    margin-top: 1.8vh;
+    margin-left: 1%;
+    border: solid black 1px;
+    float: left;
+}
+
+#three{
+    float: left;
+    width: 20%;
+    height: 11vh;
+    background-color: rgb(245, 205, 205);
+    margin-top: 1.8vh;
+    margin-left: 7.7%;
+    border: solid black 1px;
+}
+.one{
+    width: 12.5%;
+    height: 9vh;
+    background-color: red;
+    margin-top: 0.9vh;
+    margin-left: 2.2%;
+    border: solid black 1px;
+    float: left;
+}
+
+.two{
+    width: 12.5%;
+    height: 9vh;
+    background-color: red;
+    margin-top: 0.9vh;
+    margin-left: 1.4%;
+    border: solid black 1px;
+    float: left;
+}
+
+.three{
+    width: 12.5%;
+    height: 9vh;
+    background-color: red;
+    margin-top: 0.9vh;
+    margin-left: 1.4%;
+    border: solid black 1px;
+    float: left;
+}
+
+.foure{
+    width: 12.5%;
+    height: 9vh;
+    background-color: red;
+    margin-top: 0.9vh;
+    margin-left: 1.4%;
+    border: solid black 1px;
+    float: left;
+}
+
+.five{
+    float: left;
+    width: 40%;
+    height: 9vh;
+    background-color: red;
+    margin-top: 0.9vh;
+    margin-left: 7.5%;
+    border: solid black 1px;
+}
+
+.six{
+    float: left;
+    width: 40%;
+    height: 8.9vh;
+    background-color: red;
+    margin-top: 0.9vh;
+    margin-left: 5%;
+    border: solid black 1px;
+}
+
+.my{
+    position: relative;
+    top: 15px;
+    left: 20px;    
+}
+.clear{
+    clear: both;
+}
+
+/* main */
+
+#main{
+    background-color: brown;
+    border: solid black 2px;
+    margin-top: 10vh ;
+    margin-left: 9%;
+    margin-right: 9%;
+    height: 250px;
+}
+
+.circle{
+    background-color: rgb(119, 112, 218);
+    border: solid whitesmoke 2px;
+    display: inline;
+    margin: 6.5%;
+    padding: 10%;
+    border-radius: 350px;
+    position: relative;
+    top: 46.3%;
+}
+
+.clear{
+    clear: both;
+}
+
+/* content */
+
+.article-1{
+    width: 25%;
+    border: solid black 1px;
+    margin-left: 9%;
+    margin-top: 5%;
+    text-align: justify;
+    height: 25vh;
+}
+
+.article-2{
+    width: 25%;
+    border: solid black 1px;
+    float: right;
+    margin-right: 9%;
+    margin-top: -11.6%;
+    text-align: justify;
+    height: 25vh;
+}
+
+footer{
+    background-color: cornflowerblue;
+    border: solid black 1.5px;
+    width: 90%;
+    height: 25vh;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+
+.span-1{
+    float: left;
+    margin-left: 6%;
+    margin-top: 5%;
+}
+
+.span-2{
+    float: right;
+    margin-right: 6%;
+    margin-top: 5%;
+}
